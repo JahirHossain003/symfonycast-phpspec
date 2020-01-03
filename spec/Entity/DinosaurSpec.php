@@ -35,6 +35,6 @@ class DinosaurSpec extends ObjectBehavior
     {
         $this->setLength(9);
 
-        $this->getLength()->shouldReturn(10);
+        $this->getLength()->shouldReturn(9);
     }
 }
