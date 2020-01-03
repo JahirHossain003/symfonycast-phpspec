@@ -1,4 +1,6 @@
 {
+    "name": "jahir/symfonycast-phpspec",
+    "description": "Getting started with phpspec",
     "license": "proprietary",
     "type": "project",
     "require-dev": {
