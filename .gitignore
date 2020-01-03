@@ -2,3 +2,4 @@ vendor/
 tutorial/
 .idea/
 LICENSE
+composer.lock
